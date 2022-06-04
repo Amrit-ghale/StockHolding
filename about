@@ -1,0 +1,13 @@
+-----=====StockHolding in Swift:======----
+
+This is part of our college assignment. As part of this project we had to create stockholding application in which we can perform following task :
+1 : Add Stock
+2 : Remove Stock
+3 : Display Stock with lowest value
+4 : Display Stock with highest Value
+5 : Display most profitable Stock
+6 : Display least profitable Stock
+7 : Display stocks from A-Z
+8 : Display stocks lowest to highest Value
+
+
